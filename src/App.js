@@ -13,7 +13,7 @@ const nums = arr.map((value, index, arr) =>
 {
     return value * 2
     // why are you not working
-//   console.log(value);
+//   console.log(valuemm);
 })
 return <div className="App">{nums}</div>
 
