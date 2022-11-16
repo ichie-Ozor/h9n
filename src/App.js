@@ -12,7 +12,7 @@ const [jones, ola, ugo, ozor, chi] = arr;
 const nums = arr.map((value, index, arr) => 
 {
     return value * 2
-    
+    // why are you not working
 //   console.log(value);
 })
 return <div className="App">{nums}</div>
